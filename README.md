@@ -1,3 +1,5 @@
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaePippi&count_bg=%23222222&title_bg=%23222222&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
+
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&section=header&text=BaePippi%20GitHub%20:)&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=0081C9&strokeWidth=2" />
 </div>
@@ -39,5 +41,3 @@
 
 
 </div>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaePippi&count_bg=%230081C9&title_bg=%2323025E&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
